@@ -8,7 +8,7 @@ $\color{#ADB4B8}{\textsf{valentin}}$
 [listography](https://listography.com/2760722935?m=6404158689)  [ata](https://nirvanaistheband.atabook.org/)
 
 
-<img src="https://files.catbox.moe/h3vlqj.gif" alt="moon divider" width="700"></a>
+<img src="https://files.catbox.moe/h3vlqj.gif" alt="nyancat" width="500"></a>
 <!--
 **12RODS/12RODS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
