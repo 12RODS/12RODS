@@ -3,7 +3,7 @@
   
 $\color{#ADB4B8}{\textsf{valentin}}$   
 
-<img src="[https://files.catbox.moe/z2weob.gif]" width="500" alt="what the hell">
+<img src="https://files.catbox.moe/z2weob.gif" width="500" alt="what the hell">
 
 [listography](https://listography.com/2760722935?m=6404158689)  [ata](https://nirvanaistheband.atabook.org/)
 
