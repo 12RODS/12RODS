@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-$\color{#ADB4B8}{\textsf{valentin}}$   $\color{#CCD2D9}{\textsf{17 . yrs old . they/them}}$
+$\color{#ADB4B8}{\textsf{valentin}}$   
 
 <img src="https://files.catbox.moe/eo048z.gif" width="500" alt="what the hell">
 
