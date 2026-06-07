@@ -5,7 +5,7 @@ $\color{#ADB4B8}{\textsf{valentin}}$
 
 <img src="https://files.catbox.moe/eo048z.gif" width="500" alt="what the hell">
 
-[rentry](https://rentry.co/jadeharleyys) [straw](https://yesilikeunicorns.straw.page/) [ata](https://beatles.atabook.org/)
+[listography](https://listography.com/2760722935?m=6404158689) [straw](https://yesilikeunicorns.straw.page/) [ata](https://nirvanaistheband.atabook.org/)
 
 
 <img src="https://64.media.tumblr.com/dbdee99af3254e14a78e859e969b46e2/e3fe24de37d03145-dc/s2048x3072/2af69d997efbe806fb0c4437b40a99d1c2d9f5fd.pnj" alt="moon divider" width="700"></a>
