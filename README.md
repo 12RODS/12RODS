@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-$\color{#ADB4B8}{\textsf{valentin}}$   
+$\color{#00FF00}{\textsf{valentin}}$   
 
 <img src="https://files.catbox.moe/z2weob.gif" width="500" alt="what the hell">
 
