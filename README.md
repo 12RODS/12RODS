@@ -5,7 +5,7 @@
 
 <img src="https://files.catbox.moe/z2weob.gif" width="500" alt="what the hell">
 
-[listography](https://listography.com/2760722935?m=6404158689)  [ata](https://nirvanaistheband.atabook.org/)
+[listography](https://listography.com/2760722935?m=6404158689)  [ata](https://nirvanathebandtheshow.atabook.org/)
 
 
 <img src="https://files.catbox.moe/h3vlqj.gif" alt="nyancat" width="500"></a>
