@@ -1,5 +1,14 @@
-## Hi there 👋
+<div align="center">
+<img src="https://64.media.tumblr.com/dbdee99af3254e14a78e859e969b46e2/e3fe24de37d03145-dc/s2048x3072/2af69d997efbe806fb0c4437b40a99d1c2d9f5fd.pnj" alt="up moon divider" width="700"></a>
+  
+$\color{#ADB4B8}{\textsf{Valentin}}$   $\color{#CCD2D9}{\textsf{17 . yrs old . they/them}}$
 
+<img src="https://files.catbox.moe/eo048z.gif" width="500" alt="what the hell">
+
+[rentry](https://rentry.co/jadeharleyys) [straw](https://yesilikeunicorns.straw.page/) [ata](https://beatles.atabook.org/)
+
+
+<img src="https://64.media.tumblr.com/dbdee99af3254e14a78e859e969b46e2/e3fe24de37d03145-dc/s2048x3072/2af69d997efbe806fb0c4437b40a99d1c2d9f5fd.pnj" alt="moon divider" width="700"></a>
 <!--
 **12RODS/12RODS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
